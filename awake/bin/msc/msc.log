@@ -1,0 +1,483 @@
+============================================================
+Time  2020/11/16 15:42:16 522 
+============================================================
+[2020/11/16 15:42:16 523][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST socket_main_0:1:1:0
+[2020/11/16 15:42:16 523][Px1c15][Txaa275700][DBG] MSPTHREAD  MSPThreadP 826  socket_main_0 IDLE
+[2020/11/16 15:42:16 523][Px1c15][Txaa275700][DBG] MSPTHREAD  MSPThreadP 868  socket_main_0 RUN <socket_main_0>
+[2020/11/16 15:42:16 523][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_1:1:1:0
+[2020/11/16 15:42:16 524][Px1c15][Txa9273700][DBG] MSPTHREAD  MSPThreadP 826  l_engine_1 IDLE
+[2020/11/16 15:42:16 524][Px1c15][Txa9273700][DBG] MSPTHREAD  MSPThreadP 868  l_engine_1 RUN <l_engine_1>
+[2020/11/16 15:42:16 524][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_2:1:1:0
+[2020/11/16 15:42:16 524][Px1c15][Txa8a72700][DBG] MSPTHREAD  MSPThreadP 826  l_engine_2 IDLE
+[2020/11/16 15:42:16 524][Px1c15][Txa8a72700][DBG] MSPTHREAD  MSPThreadP 868  l_engine_2 RUN <l_engine_2>
+[2020/11/16 15:42:16 524][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_3:1:1:0
+[2020/11/16 15:42:16 524][Px1c15][Tx9bfff700][DBG] MSPTHREAD  MSPThreadP 826  l_engine_3 IDLE
+[2020/11/16 15:42:16 525][Px1c15][Tx9bfff700][DBG] MSPTHREAD  MSPThreadP 868  l_engine_3 RUN <l_engine_3>
+[2020/11/16 15:42:16 525][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_4:1:1:0
+[2020/11/16 15:42:16 525][Px1c15][Tx9b7fe700][DBG] MSPTHREAD  MSPThreadP 826  l_engine_4 IDLE
+[2020/11/16 15:42:16 525][Px1c15][Tx9b7fe700][DBG] MSPTHREAD  MSPThreadP 868  l_engine_4 RUN <l_engine_4>
+[2020/11/16 15:42:16 525][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_5:1:1:0
+[2020/11/16 15:42:16 525][Px1c15][Tx9affd700][DBG] MSPTHREAD  MSPThreadP 826  l_engine_5 IDLE
+[2020/11/16 15:42:16 526][Px1c15][Tx9affd700][DBG] MSPTHREAD  MSPThreadP 868  l_engine_5 RUN <l_engine_5>
+[2020/11/16 15:42:16 526][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:1:1:0
+[2020/11/16 15:42:16 526][Px1c15][Tx9a7fc700][DBG] MSPTHREAD  MSPThreadP 826  l_engine_6 IDLE
+[2020/11/16 15:42:16 526][Px1c15][Tx9a7fc700][DBG] MSPTHREAD  MSPThreadP 868  l_engine_6 RUN <l_engine_6>
+[2020/11/16 15:42:16 526][Px1c15][Txabfd2b80][TRC] MSPCMN     msp_cmn.c  1300 MSPLogin(0,0,ec4213da) [in]
+[2020/11/16 15:42:16 527][Px1c15][Txabfd2b80][TRC] LENGINE    leng_shell 109  lEngine_Start(ab93c0d2,dc581d00,1, 0) [in]
+[2020/11/16 15:42:16 527][Px1c15][Txabfd2b80][INF] LLOADER    lloader.c  327  load lgi
+[2020/11/16 15:42:16 527][Px1c15][Txabfd2b80][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 15:42:16 527][Px1c15][Txabfd2b80][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 15:42:16 527][Px1c15][Txabfd2b80][PRF] LLOADER    lloader.c  397  load lgi cost 0 (ms)
+[2020/11/16 15:42:16 528][Px1c15][Txabfd2b80][DBG] LENGINE    leng_shell 204  env=ee1b29a0,lgi,lgi_
+[2020/11/16 15:42:16 528][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:6:1:1
+[2020/11/16 15:42:16 528][Px1c15][Txabfd2b80][TRC] LENGINE    leng_shell 275  lEngine_Start() [out] 0
+[2020/11/16 15:42:16 528][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_main. 565  ENGINE_MSG_LOAD
+[2020/11/16 15:42:16 528][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_main. 209  lEngine_LoadEnv(abdcc300,ee1b29a0) [in]
+[2020/11/16 15:42:16 528][Px1c15][Txabfd2b80][TRC] LENGINE    leng_shell 418  lEngine_SendMessage(ee1b29a0,1,4,,,) [in]
+[2020/11/16 15:42:16 528][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:11:1:0
+[2020/11/16 15:42:16 529][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  327  load ecode
+[2020/11/16 15:42:16 529][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 15:42:16 529][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 15:42:16 529][Px1c15][Tx9a7fc700][PRF] LLOADER    lloader.c  397  load ecode cost 0 (ms)
+[2020/11/16 15:42:16 530][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  327  load config
+[2020/11/16 15:42:16 530][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 15:42:16 530][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 15:42:16 530][Px1c15][Tx9a7fc700][PRF] LLOADER    lloader.c  397  load config cost 0 (ms)
+[2020/11/16 15:42:16 530][Px1c15][Tx9a7fc700][INF] LMOD       luac_logge 172  [config:43:use general cloud  ]
+[2020/11/16 15:42:16 530][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  327  load update
+[2020/11/16 15:42:16 530][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 15:42:16 530][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 15:42:16 530][Px1c15][Tx9a7fc700][PRF] LLOADER    lloader.c  397  load update cost 1 (ms)
+[2020/11/16 15:42:16 530][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  327  load transport
+[2020/11/16 15:42:16 531][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 15:42:16 531][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 15:42:16 531][Px1c15][Tx9a7fc700][PRF] LLOADER    lloader.c  397  load transport cost 0 (ms)
+[2020/11/16 15:42:16 533][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  327  load ns
+[2020/11/16 15:42:16 533][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 15:42:16 533][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 15:42:16 533][Px1c15][Tx9a7fc700][PRF] LLOADER    lloader.c  397  load ns cost 1 (ms)
+[2020/11/16 15:42:16 534][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  327  load network
+[2020/11/16 15:42:16 534][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 15:42:16 534][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 15:42:16 535][Px1c15][Tx9a7fc700][PRF] LLOADER    lloader.c  397  load network cost 0 (ms)
+[2020/11/16 15:42:16 537][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_main. 263  precall return 0
+[2020/11/16 15:42:16 537][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_main. 288  [lgi_], ACTIVE
+[2020/11/16 15:42:16 537][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_rpc.c 416  luacRPCFuncProto_Invoke(84048ee0,ee1b29a0) [in]
+[2020/11/16 15:42:16 537][Px1c15][Tx9a7fc700][TRC] LMOD       luac_logge 170  [lgi:684:SYS_MSG_LOAD  ]
+[2020/11/16 15:42:16 537][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  327  load dkjson
+[2020/11/16 15:42:16 537][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 15:42:16 537][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 15:42:16 537][Px1c15][Tx9a7fc700][PRF] LLOADER    lloader.c  397  load dkjson cost 1 (ms)
+[2020/11/16 15:42:16 538][Px1c15][Tx9a7fc700][INF] LLOADER    lloader.c  327  load debug
+[2020/11/16 15:42:16 538][Px1c15][Tx9a7fc700][ERR] LLOADER    lloader.c  390  not found!
+[2020/11/16 15:42:16 539][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_rpc.c 533  luacRPCFuncProto_Invoke() [out] ret = 0
+[2020/11/16 15:42:16 539][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_main. 312  [lgi_], loaded
+[2020/11/16 15:42:16 539][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_rpc.c 416  luacRPCFuncProto_Invoke(84048ee0,ee1b29a0) [in]
+[2020/11/16 15:42:16 539][Px1c15][Tx9a7fc700][TRC] LMOD       luac_logge 170  [lgi:706:SYS_MSG_REGCB  msp_status_cb  func(84013750) ]
+[2020/11/16 15:42:16 539][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_rpc.c 533  luacRPCFuncProto_Invoke() [out] ret = 0
+[2020/11/16 15:42:16 539][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_main. 345  lEngine_LoadEnv() [out] successfully
+[2020/11/16 15:42:16 539][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_main. 571  lgi_, eng = l_engine_6, env = ee1b29a0, L = ee1b2a40
+[2020/11/16 15:42:16 539][Px1c15][Tx9a7fc700][INF] LENGINE    leng_main. 572  l_engine_6 occupancy: 1 (33%)
+[2020/11/16 15:42:16 539][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_main. 539  ENGINE_MSG_RPC_SYNC
+[2020/11/16 15:42:16 539][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_main. 547  [lgi_], stat = 1
+[2020/11/16 15:42:16 539][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_rpc.c 416  luacRPCFuncProto_Invoke(ee1b4600,ee1b29a0) [in]
+[2020/11/16 15:42:16 539][Px1c15][Tx9a7fc700][TRC] LMOD       luac_logge 170  [lgi:298:LGI_MSG_INIT  ]
+[2020/11/16 15:42:16 539][Px1c15][Tx9a7fc700][INF] LMOD       luac_logge 172  [lgi:305:lgi  lgi_  268436457  1573451739  ]
+[2020/11/16 15:42:16 540][Px1c15][Tx9a7fc700][TRC] MSPCMN     msp_cmn.c  875  statusCbStub(,,param_num = 5)
+[2020/11/16 15:42:16 540][Px1c15][Tx9a7fc700][PRF] LENGINE    leng_main. 189  callc(msp_status_cb) cost 0 ms
+[2020/11/16 15:42:16 540][Px1c15][Tx9a7fc700][INF] LMOD       luac_logge 172  [lgi:347:work_dir  .  ]
+[2020/11/16 15:42:16 540][Px1c15][Tx9a7fc700][TRC] LMOD       luac_logge 170  [lgi:403:token:  nil  ]
+[2020/11/16 15:42:16 540][Px1c15][Tx9a7fc700][INF] LMOD       luac_logge 172  [lgi:476:msc cver : 5.0.44.1288  ]
+[2020/11/16 15:42:16 540][Px1c15][Tx9a7fc700][INF] LMOD       luac_logge 172  [lgi:519:ns_enable=  1  ]
+[2020/11/16 15:42:16 540][Px1c15][Tx9a7fc700][INF] LMOD       luac_logge 172  [lgi:531:prot_ver=1  ]
+[2020/11/16 15:42:16 540][Px1c15][Tx9a7fc700][INF] LMOD       luac_logge 172  [lgi:542:prot_type=tcp  ]
+[2020/11/16 15:42:16 540][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_rpc.c 533  luacRPCFuncProto_Invoke() [out] ret = 0
+[2020/11/16 15:42:16 540][Px1c15][Txabfd2b80][TRC] LENGINE    leng_shell 461  lEngine_SendMessage() [out] 0
+[2020/11/16 15:42:16 540][Px1c15][Txabfd2b80][TRC] LENGINE    leng_shell 310  lEngine_Stop(ee1b29a0) [in]
+[2020/11/16 15:42:16 541][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:7:1:1
+[2020/11/16 15:42:16 541][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_main. 586  ENGINE_MSG_UNLOAD
+[2020/11/16 15:42:16 541][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_rpc.c 416  luacRPCFuncProto_Invoke(84048ee0,ee1b29a0) [in]
+[2020/11/16 15:42:16 541][Px1c15][Tx9a7fc700][TRC] LMOD       luac_logge 170  [lgi:693:SYS_MSG_UNLOAD  go bg!  ]
+[2020/11/16 15:42:16 541][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_rpc.c 533  luacRPCFuncProto_Invoke() [out] ret = 0
+[2020/11/16 15:42:16 541][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_main. 623  [lgi_] active, go bg!
+[2020/11/16 15:42:16 541][Px1c15][Txabfd2b80][TRC] LENGINE    leng_shell 369  lEngine_Stop() [out] 0
+[2020/11/16 15:42:16 541][Px1c15][Txabfd2b80][TRC] MSPCMN     msp_cmn.c  1483 MSPLogin() [out] 0
+[2020/11/16 15:42:16 541][Px1c15][Txabfd2b80][TRC] QIVW       qivw.c     583  internal_QIVWInit(wIvw_InterfaceInit,ret = 8,g_pIvwEngine=0)
+[2020/11/16 15:42:29 780][Px1c15][Txabfd2b80][TRC] MSPCMN     msp_cmn.c  1554 MSPLogout() [in]
+[2020/11/16 15:42:29 780][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_1:5:1:1
+[2020/11/16 15:42:29 780][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_1:2:1:0
+[2020/11/16 15:42:29 780][Px1c15][Txa9273700][DBG] LENGINE    leng_main. 750  ENGINE_MSG_EXIT
+[2020/11/16 15:42:29 780][Px1c15][Txa9273700][DBG] MSPTHREAD  MSPThreadP 872  l_engine_1 END <l_engine_1>
+[2020/11/16 15:42:29 780][Px1c15][Txa9273700][DBG] MSPTHREAD  MSPThreadP 895  l_engine_1 IDLE
+[2020/11/16 15:42:29 780][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_2:5:1:1
+[2020/11/16 15:42:29 780][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_2:2:1:0
+[2020/11/16 15:42:29 780][Px1c15][Txa8a72700][DBG] LENGINE    leng_main. 750  ENGINE_MSG_EXIT
+[2020/11/16 15:42:29 781][Px1c15][Txa8a72700][DBG] MSPTHREAD  MSPThreadP 872  l_engine_2 END <l_engine_2>
+[2020/11/16 15:42:29 781][Px1c15][Txa8a72700][DBG] MSPTHREAD  MSPThreadP 895  l_engine_2 IDLE
+[2020/11/16 15:42:29 781][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_3:5:1:1
+[2020/11/16 15:42:29 781][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_3:2:1:0
+[2020/11/16 15:42:29 781][Px1c15][Tx9bfff700][DBG] LENGINE    leng_main. 750  ENGINE_MSG_EXIT
+[2020/11/16 15:42:29 781][Px1c15][Tx9bfff700][DBG] MSPTHREAD  MSPThreadP 872  l_engine_3 END <l_engine_3>
+[2020/11/16 15:42:29 781][Px1c15][Tx9bfff700][DBG] MSPTHREAD  MSPThreadP 895  l_engine_3 IDLE
+[2020/11/16 15:42:29 781][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_4:5:1:1
+[2020/11/16 15:42:29 781][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_4:2:1:0
+[2020/11/16 15:42:29 781][Px1c15][Tx9b7fe700][DBG] LENGINE    leng_main. 750  ENGINE_MSG_EXIT
+[2020/11/16 15:42:29 782][Px1c15][Tx9b7fe700][DBG] MSPTHREAD  MSPThreadP 872  l_engine_4 END <l_engine_4>
+[2020/11/16 15:42:29 782][Px1c15][Tx9b7fe700][DBG] MSPTHREAD  MSPThreadP 895  l_engine_4 IDLE
+[2020/11/16 15:42:29 782][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_5:5:1:1
+[2020/11/16 15:42:29 782][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_5:2:1:0
+[2020/11/16 15:42:29 782][Px1c15][Tx9affd700][DBG] LENGINE    leng_main. 750  ENGINE_MSG_EXIT
+[2020/11/16 15:42:29 782][Px1c15][Tx9affd700][DBG] MSPTHREAD  MSPThreadP 872  l_engine_5 END <l_engine_5>
+[2020/11/16 15:42:29 782][Px1c15][Tx9affd700][DBG] MSPTHREAD  MSPThreadP 895  l_engine_5 IDLE
+[2020/11/16 15:42:29 782][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:5:1:1
+[2020/11/16 15:42:29 782][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:2:1:0
+[2020/11/16 15:42:29 782][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_main. 750  ENGINE_MSG_EXIT
+[2020/11/16 15:42:29 783][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_main. 781  [lgi_] bg, stat = 1
+[2020/11/16 15:42:29 783][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_rpc.c 416  luacRPCFuncProto_Invoke(84048ee0,ee1b29a0) [in]
+[2020/11/16 15:42:29 783][Px1c15][Tx9a7fc700][TRC] LMOD       luac_logge 170  [lgi:697:SYS_MSG_SHUTDOWN  ]
+[2020/11/16 15:42:29 783][Px1c15][Tx9a7fc700][DBG] LENGINE    leng_rpc.c 533  luacRPCFuncProto_Invoke() [out] ret = 0
+[2020/11/16 15:42:29 783][Px1c15][Tx9a7fc700][DBG] MSPTHREAD  MSPThreadP 872  l_engine_6 END <l_engine_6>
+[2020/11/16 15:42:29 783][Px1c15][Tx9a7fc700][DBG] MSPTHREAD  MSPThreadP 895  l_engine_6 IDLE
+[2020/11/16 15:42:29 783][Px1c15][Txabfd2b80][TRC] LUAC_CLEAN luac_clean 205  luacCleaner_Stop() [in]
+[2020/11/16 15:42:29 784][Px1c15][Txabfd2b80][TRC] LUAC_CLEAN luac_clean 248  luacCleaner_Stop() [out] 0
+[2020/11/16 15:42:29 784][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST socket_main_0:10:1:1
+[2020/11/16 15:42:29 784][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST socket_main_0:2:1:0
+[2020/11/16 15:42:29 784][Px1c15][Txaa275700][TRC] MSPSOCKET  MSPSocket. 1191 EXIT MSG
+[2020/11/16 15:42:29 784][Px1c15][Txaa275700][DBG] MSPTHREAD  MSPThreadP 872  socket_main_0 END <socket_main_0>
+[2020/11/16 15:42:29 784][Px1c15][Txaa275700][DBG] MSPTHREAD  MSPThreadP 895  socket_main_0 IDLE
+[2020/11/16 15:42:29 784][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_1:3:1:1
+[2020/11/16 15:42:29 784][Px1c15][Txa9273700][DBG] MSPTHREAD  MSPThreadP 851  l_engine_1 DEAD
+[2020/11/16 15:42:29 784][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_2:3:1:1
+[2020/11/16 15:42:29 784][Px1c15][Txa8a72700][DBG] MSPTHREAD  MSPThreadP 851  l_engine_2 DEAD
+[2020/11/16 15:42:29 785][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_3:3:1:1
+[2020/11/16 15:42:29 785][Px1c15][Tx9bfff700][DBG] MSPTHREAD  MSPThreadP 851  l_engine_3 DEAD
+[2020/11/16 15:42:29 785][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_4:3:1:1
+[2020/11/16 15:42:29 785][Px1c15][Tx9b7fe700][DBG] MSPTHREAD  MSPThreadP 851  l_engine_4 DEAD
+[2020/11/16 15:42:29 785][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_5:3:1:1
+[2020/11/16 15:42:29 785][Px1c15][Tx9affd700][DBG] MSPTHREAD  MSPThreadP 851  l_engine_5 DEAD
+[2020/11/16 15:42:29 786][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:3:1:1
+[2020/11/16 15:42:29 786][Px1c15][Tx9a7fc700][DBG] MSPTHREAD  MSPThreadP 851  l_engine_6 DEAD
+[2020/11/16 15:42:29 786][Px1c15][Txabfd2b80][DBG] MSPTHREAD  MSPThreadP 734  POST socket_main_0:3:1:1
+[2020/11/16 15:42:29 786][Px1c15][Txaa275700][DBG] MSPTHREAD  MSPThreadP 851  socket_main_0 DEAD
+============================================================
+Time  2020/11/16 16:13:57 862 
+============================================================
+[2020/11/16 16:13:57 863][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST socket_main_0:1:1:0
+[2020/11/16 16:13:57 863][Px1c82][Tx40c1c700][DBG] MSPTHREAD  MSPThreadP 826  socket_main_0 IDLE
+[2020/11/16 16:13:57 863][Px1c82][Tx40c1c700][DBG] MSPTHREAD  MSPThreadP 868  socket_main_0 RUN <socket_main_0>
+[2020/11/16 16:13:57 863][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_1:1:1:0
+[2020/11/16 16:13:57 864][Px1c82][Tx3b7fe700][DBG] MSPTHREAD  MSPThreadP 826  l_engine_1 IDLE
+[2020/11/16 16:13:57 864][Px1c82][Tx3b7fe700][DBG] MSPTHREAD  MSPThreadP 868  l_engine_1 RUN <l_engine_1>
+[2020/11/16 16:13:57 864][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_2:1:1:0
+[2020/11/16 16:13:57 864][Px1c82][Tx3affd700][DBG] MSPTHREAD  MSPThreadP 826  l_engine_2 IDLE
+[2020/11/16 16:13:57 864][Px1c82][Tx3affd700][DBG] MSPTHREAD  MSPThreadP 868  l_engine_2 RUN <l_engine_2>
+[2020/11/16 16:13:57 864][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_3:1:1:0
+[2020/11/16 16:13:57 865][Px1c82][Tx3a7fc700][DBG] MSPTHREAD  MSPThreadP 826  l_engine_3 IDLE
+[2020/11/16 16:13:57 865][Px1c82][Tx3a7fc700][DBG] MSPTHREAD  MSPThreadP 868  l_engine_3 RUN <l_engine_3>
+[2020/11/16 16:13:57 865][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_4:1:1:0
+[2020/11/16 16:13:57 865][Px1c82][Tx39ffb700][DBG] MSPTHREAD  MSPThreadP 826  l_engine_4 IDLE
+[2020/11/16 16:13:57 865][Px1c82][Tx39ffb700][DBG] MSPTHREAD  MSPThreadP 868  l_engine_4 RUN <l_engine_4>
+[2020/11/16 16:13:57 865][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_5:1:1:0
+[2020/11/16 16:13:57 865][Px1c82][Tx397fa700][DBG] MSPTHREAD  MSPThreadP 826  l_engine_5 IDLE
+[2020/11/16 16:13:57 866][Px1c82][Tx397fa700][DBG] MSPTHREAD  MSPThreadP 868  l_engine_5 RUN <l_engine_5>
+[2020/11/16 16:13:57 866][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:1:1:0
+[2020/11/16 16:13:57 866][Px1c82][Tx38ff9700][DBG] MSPTHREAD  MSPThreadP 826  l_engine_6 IDLE
+[2020/11/16 16:13:57 866][Px1c82][Tx38ff9700][DBG] MSPTHREAD  MSPThreadP 868  l_engine_6 RUN <l_engine_6>
+[2020/11/16 16:13:57 866][Px1c82][Tx42979b80][TRC] MSPCMN     msp_cmn.c  1300 MSPLogin(0,0,67f953da) [in]
+[2020/11/16 16:13:57 866][Px1c82][Tx42979b80][TRC] LENGINE    leng_shell 109  lEngine_Start(422e30d2,a463a840,1, 0) [in]
+[2020/11/16 16:13:57 867][Px1c82][Tx42979b80][INF] LLOADER    lloader.c  327  load lgi
+[2020/11/16 16:13:57 867][Px1c82][Tx42979b80][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 16:13:57 867][Px1c82][Tx42979b80][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 16:13:57 867][Px1c82][Tx42979b80][PRF] LLOADER    lloader.c  397  load lgi cost 0 (ms)
+[2020/11/16 16:13:57 868][Px1c82][Tx42979b80][DBG] LENGINE    leng_shell 204  env=6924d9a0,lgi,lgi_
+[2020/11/16 16:13:57 868][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:6:1:1
+[2020/11/16 16:13:57 868][Px1c82][Tx42979b80][TRC] LENGINE    leng_shell 275  lEngine_Start() [out] 0
+[2020/11/16 16:13:57 868][Px1c82][Tx38ff9700][DBG] LENGINE    leng_main. 565  ENGINE_MSG_LOAD
+[2020/11/16 16:13:57 868][Px1c82][Tx38ff9700][DBG] LENGINE    leng_main. 209  lEngine_LoadEnv(42773300,6924d9a0) [in]
+[2020/11/16 16:13:57 868][Px1c82][Tx42979b80][TRC] LENGINE    leng_shell 418  lEngine_SendMessage(6924d9a0,1,4,,,) [in]
+[2020/11/16 16:13:57 868][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:11:1:0
+[2020/11/16 16:13:57 869][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  327  load ecode
+[2020/11/16 16:13:57 869][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 16:13:57 869][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 16:13:57 869][Px1c82][Tx38ff9700][PRF] LLOADER    lloader.c  397  load ecode cost 0 (ms)
+[2020/11/16 16:13:57 870][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  327  load config
+[2020/11/16 16:13:57 870][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 16:13:57 870][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 16:13:57 870][Px1c82][Tx38ff9700][PRF] LLOADER    lloader.c  397  load config cost 0 (ms)
+[2020/11/16 16:13:57 870][Px1c82][Tx38ff9700][INF] LMOD       luac_logge 172  [config:43:use general cloud  ]
+[2020/11/16 16:13:57 870][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  327  load update
+[2020/11/16 16:13:57 870][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 16:13:57 870][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 16:13:57 870][Px1c82][Tx38ff9700][PRF] LLOADER    lloader.c  397  load update cost 0 (ms)
+[2020/11/16 16:13:57 870][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  327  load transport
+[2020/11/16 16:13:57 870][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 16:13:57 870][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 16:13:57 871][Px1c82][Tx38ff9700][PRF] LLOADER    lloader.c  397  load transport cost 0 (ms)
+[2020/11/16 16:13:57 873][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  327  load ns
+[2020/11/16 16:13:57 873][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 16:13:57 873][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 16:13:57 873][Px1c82][Tx38ff9700][PRF] LLOADER    lloader.c  397  load ns cost 0 (ms)
+[2020/11/16 16:13:57 874][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  327  load network
+[2020/11/16 16:13:57 874][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 16:13:57 874][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 16:13:57 875][Px1c82][Tx38ff9700][PRF] LLOADER    lloader.c  397  load network cost 0 (ms)
+[2020/11/16 16:13:57 877][Px1c82][Tx38ff9700][DBG] LENGINE    leng_main. 263  precall return 0
+[2020/11/16 16:13:57 877][Px1c82][Tx38ff9700][DBG] LENGINE    leng_main. 288  [lgi_], ACTIVE
+[2020/11/16 16:13:57 877][Px1c82][Tx38ff9700][DBG] LENGINE    leng_rpc.c 416  luacRPCFuncProto_Invoke(1c048ea0,6924d9a0) [in]
+[2020/11/16 16:13:57 877][Px1c82][Tx38ff9700][TRC] LMOD       luac_logge 170  [lgi:684:SYS_MSG_LOAD  ]
+[2020/11/16 16:13:57 877][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  327  load dkjson
+[2020/11/16 16:13:57 877][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 16:13:57 877][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 16:13:57 877][Px1c82][Tx38ff9700][PRF] LLOADER    lloader.c  397  load dkjson cost 0 (ms)
+[2020/11/16 16:13:57 878][Px1c82][Tx38ff9700][INF] LLOADER    lloader.c  327  load debug
+[2020/11/16 16:13:57 878][Px1c82][Tx38ff9700][ERR] LLOADER    lloader.c  390  not found!
+[2020/11/16 16:13:57 879][Px1c82][Tx38ff9700][DBG] LENGINE    leng_rpc.c 533  luacRPCFuncProto_Invoke() [out] ret = 0
+[2020/11/16 16:13:57 879][Px1c82][Tx38ff9700][DBG] LENGINE    leng_main. 312  [lgi_], loaded
+[2020/11/16 16:13:57 879][Px1c82][Tx38ff9700][DBG] LENGINE    leng_rpc.c 416  luacRPCFuncProto_Invoke(1c048ea0,6924d9a0) [in]
+[2020/11/16 16:13:57 879][Px1c82][Tx38ff9700][TRC] LMOD       luac_logge 170  [lgi:706:SYS_MSG_REGCB  msp_status_cb  func(1c013750) ]
+[2020/11/16 16:13:57 879][Px1c82][Tx38ff9700][DBG] LENGINE    leng_rpc.c 533  luacRPCFuncProto_Invoke() [out] ret = 0
+[2020/11/16 16:13:57 879][Px1c82][Tx38ff9700][DBG] LENGINE    leng_main. 345  lEngine_LoadEnv() [out] successfully
+[2020/11/16 16:13:57 879][Px1c82][Tx38ff9700][DBG] LENGINE    leng_main. 571  lgi_, eng = l_engine_6, env = 6924d9a0, L = 6924da40
+[2020/11/16 16:13:57 879][Px1c82][Tx38ff9700][INF] LENGINE    leng_main. 572  l_engine_6 occupancy: 1 (33%)
+[2020/11/16 16:13:57 879][Px1c82][Tx38ff9700][DBG] LENGINE    leng_main. 539  ENGINE_MSG_RPC_SYNC
+[2020/11/16 16:13:57 879][Px1c82][Tx38ff9700][DBG] LENGINE    leng_main. 547  [lgi_], stat = 1
+[2020/11/16 16:13:57 879][Px1c82][Tx38ff9700][DBG] LENGINE    leng_rpc.c 416  luacRPCFuncProto_Invoke(6924f600,6924d9a0) [in]
+[2020/11/16 16:13:57 879][Px1c82][Tx38ff9700][TRC] LMOD       luac_logge 170  [lgi:298:LGI_MSG_INIT  ]
+[2020/11/16 16:13:57 879][Px1c82][Tx38ff9700][INF] LMOD       luac_logge 172  [lgi:305:lgi  lgi_  268436457  1573451739  ]
+[2020/11/16 16:13:57 879][Px1c82][Tx38ff9700][TRC] MSPCMN     msp_cmn.c  875  statusCbStub(,,param_num = 5)
+[2020/11/16 16:13:57 879][Px1c82][Tx38ff9700][PRF] LENGINE    leng_main. 189  callc(msp_status_cb) cost 0 ms
+[2020/11/16 16:13:57 880][Px1c82][Tx38ff9700][INF] LMOD       luac_logge 172  [lgi:347:work_dir  .  ]
+[2020/11/16 16:13:57 880][Px1c82][Tx38ff9700][TRC] LMOD       luac_logge 170  [lgi:403:token:  nil  ]
+[2020/11/16 16:13:57 880][Px1c82][Tx38ff9700][INF] LMOD       luac_logge 172  [lgi:476:msc cver : 5.0.44.1288  ]
+[2020/11/16 16:13:57 880][Px1c82][Tx38ff9700][INF] LMOD       luac_logge 172  [lgi:519:ns_enable=  1  ]
+[2020/11/16 16:13:57 880][Px1c82][Tx38ff9700][INF] LMOD       luac_logge 172  [lgi:531:prot_ver=1  ]
+[2020/11/16 16:13:57 880][Px1c82][Tx38ff9700][INF] LMOD       luac_logge 172  [lgi:542:prot_type=tcp  ]
+[2020/11/16 16:13:57 880][Px1c82][Tx38ff9700][DBG] LENGINE    leng_rpc.c 533  luacRPCFuncProto_Invoke() [out] ret = 0
+[2020/11/16 16:13:57 880][Px1c82][Tx42979b80][TRC] LENGINE    leng_shell 461  lEngine_SendMessage() [out] 0
+[2020/11/16 16:13:57 880][Px1c82][Tx42979b80][TRC] LENGINE    leng_shell 310  lEngine_Stop(6924d9a0) [in]
+[2020/11/16 16:13:57 880][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:7:1:1
+[2020/11/16 16:13:57 880][Px1c82][Tx38ff9700][DBG] LENGINE    leng_main. 586  ENGINE_MSG_UNLOAD
+[2020/11/16 16:13:57 881][Px1c82][Tx38ff9700][DBG] LENGINE    leng_rpc.c 416  luacRPCFuncProto_Invoke(1c048ea0,6924d9a0) [in]
+[2020/11/16 16:13:57 881][Px1c82][Tx38ff9700][TRC] LMOD       luac_logge 170  [lgi:693:SYS_MSG_UNLOAD  go bg!  ]
+[2020/11/16 16:13:57 881][Px1c82][Tx38ff9700][DBG] LENGINE    leng_rpc.c 533  luacRPCFuncProto_Invoke() [out] ret = 0
+[2020/11/16 16:13:57 881][Px1c82][Tx38ff9700][DBG] LENGINE    leng_main. 623  [lgi_] active, go bg!
+[2020/11/16 16:13:57 881][Px1c82][Tx42979b80][TRC] LENGINE    leng_shell 369  lEngine_Stop() [out] 0
+[2020/11/16 16:13:57 881][Px1c82][Tx42979b80][TRC] MSPCMN     msp_cmn.c  1483 MSPLogin() [out] 0
+[2020/11/16 16:13:57 881][Px1c82][Tx42979b80][TRC] QIVW       qivw.c     583  internal_QIVWInit(wIvw_InterfaceInit,ret = 8,g_pIvwEngine=0)
+[2020/11/16 16:14:01 113][Px1c82][Tx42979b80][TRC] MSPCMN     msp_cmn.c  1554 MSPLogout() [in]
+[2020/11/16 16:14:01 113][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_1:5:1:1
+[2020/11/16 16:14:01 113][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_1:2:1:0
+[2020/11/16 16:14:01 113][Px1c82][Tx3b7fe700][DBG] LENGINE    leng_main. 750  ENGINE_MSG_EXIT
+[2020/11/16 16:14:01 113][Px1c82][Tx3b7fe700][DBG] MSPTHREAD  MSPThreadP 872  l_engine_1 END <l_engine_1>
+[2020/11/16 16:14:01 113][Px1c82][Tx3b7fe700][DBG] MSPTHREAD  MSPThreadP 895  l_engine_1 IDLE
+[2020/11/16 16:14:01 113][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_2:5:1:1
+[2020/11/16 16:14:01 113][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_2:2:1:0
+[2020/11/16 16:14:01 113][Px1c82][Tx3affd700][DBG] LENGINE    leng_main. 750  ENGINE_MSG_EXIT
+[2020/11/16 16:14:01 113][Px1c82][Tx3affd700][DBG] MSPTHREAD  MSPThreadP 872  l_engine_2 END <l_engine_2>
+[2020/11/16 16:14:01 114][Px1c82][Tx3affd700][DBG] MSPTHREAD  MSPThreadP 895  l_engine_2 IDLE
+[2020/11/16 16:14:01 114][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_3:5:1:1
+[2020/11/16 16:14:01 114][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_3:2:1:0
+[2020/11/16 16:14:01 114][Px1c82][Tx3a7fc700][DBG] LENGINE    leng_main. 750  ENGINE_MSG_EXIT
+[2020/11/16 16:14:01 114][Px1c82][Tx3a7fc700][DBG] MSPTHREAD  MSPThreadP 872  l_engine_3 END <l_engine_3>
+[2020/11/16 16:14:01 114][Px1c82][Tx3a7fc700][DBG] MSPTHREAD  MSPThreadP 895  l_engine_3 IDLE
+[2020/11/16 16:14:01 114][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_4:5:1:1
+[2020/11/16 16:14:01 114][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_4:2:1:0
+[2020/11/16 16:14:01 114][Px1c82][Tx39ffb700][DBG] LENGINE    leng_main. 750  ENGINE_MSG_EXIT
+[2020/11/16 16:14:01 114][Px1c82][Tx39ffb700][DBG] MSPTHREAD  MSPThreadP 872  l_engine_4 END <l_engine_4>
+[2020/11/16 16:14:01 114][Px1c82][Tx39ffb700][DBG] MSPTHREAD  MSPThreadP 895  l_engine_4 IDLE
+[2020/11/16 16:14:01 114][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_5:5:1:1
+[2020/11/16 16:14:01 114][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_5:2:1:0
+[2020/11/16 16:14:01 115][Px1c82][Tx397fa700][DBG] LENGINE    leng_main. 750  ENGINE_MSG_EXIT
+[2020/11/16 16:14:01 115][Px1c82][Tx397fa700][DBG] MSPTHREAD  MSPThreadP 872  l_engine_5 END <l_engine_5>
+[2020/11/16 16:14:01 115][Px1c82][Tx397fa700][DBG] MSPTHREAD  MSPThreadP 895  l_engine_5 IDLE
+[2020/11/16 16:14:01 115][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:5:1:1
+[2020/11/16 16:14:01 115][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:2:1:0
+[2020/11/16 16:14:01 115][Px1c82][Tx38ff9700][DBG] LENGINE    leng_main. 750  ENGINE_MSG_EXIT
+[2020/11/16 16:14:01 115][Px1c82][Tx38ff9700][DBG] LENGINE    leng_main. 781  [lgi_] bg, stat = 1
+[2020/11/16 16:14:01 115][Px1c82][Tx38ff9700][DBG] LENGINE    leng_rpc.c 416  luacRPCFuncProto_Invoke(1c048ea0,6924d9a0) [in]
+[2020/11/16 16:14:01 115][Px1c82][Tx38ff9700][TRC] LMOD       luac_logge 170  [lgi:697:SYS_MSG_SHUTDOWN  ]
+[2020/11/16 16:14:01 115][Px1c82][Tx38ff9700][DBG] LENGINE    leng_rpc.c 533  luacRPCFuncProto_Invoke() [out] ret = 0
+[2020/11/16 16:14:01 116][Px1c82][Tx38ff9700][DBG] MSPTHREAD  MSPThreadP 872  l_engine_6 END <l_engine_6>
+[2020/11/16 16:14:01 116][Px1c82][Tx38ff9700][DBG] MSPTHREAD  MSPThreadP 895  l_engine_6 IDLE
+[2020/11/16 16:14:01 116][Px1c82][Tx42979b80][TRC] LUAC_CLEAN luac_clean 205  luacCleaner_Stop() [in]
+[2020/11/16 16:14:01 116][Px1c82][Tx42979b80][TRC] LUAC_CLEAN luac_clean 248  luacCleaner_Stop() [out] 0
+[2020/11/16 16:14:01 116][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST socket_main_0:10:1:1
+[2020/11/16 16:14:01 116][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST socket_main_0:2:1:0
+[2020/11/16 16:14:01 116][Px1c82][Tx40c1c700][TRC] MSPSOCKET  MSPSocket. 1191 EXIT MSG
+[2020/11/16 16:14:01 116][Px1c82][Tx40c1c700][DBG] MSPTHREAD  MSPThreadP 872  socket_main_0 END <socket_main_0>
+[2020/11/16 16:14:01 116][Px1c82][Tx40c1c700][DBG] MSPTHREAD  MSPThreadP 895  socket_main_0 IDLE
+[2020/11/16 16:14:01 117][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_1:3:1:1
+[2020/11/16 16:14:01 117][Px1c82][Tx3b7fe700][DBG] MSPTHREAD  MSPThreadP 851  l_engine_1 DEAD
+[2020/11/16 16:14:01 117][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_2:3:1:1
+[2020/11/16 16:14:01 117][Px1c82][Tx3affd700][DBG] MSPTHREAD  MSPThreadP 851  l_engine_2 DEAD
+[2020/11/16 16:14:01 117][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_3:3:1:1
+[2020/11/16 16:14:01 117][Px1c82][Tx3a7fc700][DBG] MSPTHREAD  MSPThreadP 851  l_engine_3 DEAD
+[2020/11/16 16:14:01 118][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_4:3:1:1
+[2020/11/16 16:14:01 118][Px1c82][Tx39ffb700][DBG] MSPTHREAD  MSPThreadP 851  l_engine_4 DEAD
+[2020/11/16 16:14:01 118][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_5:3:1:1
+[2020/11/16 16:14:01 118][Px1c82][Tx397fa700][DBG] MSPTHREAD  MSPThreadP 851  l_engine_5 DEAD
+[2020/11/16 16:14:01 118][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:3:1:1
+[2020/11/16 16:14:01 118][Px1c82][Tx38ff9700][DBG] MSPTHREAD  MSPThreadP 851  l_engine_6 DEAD
+[2020/11/16 16:14:01 119][Px1c82][Tx42979b80][DBG] MSPTHREAD  MSPThreadP 734  POST socket_main_0:3:1:1
+[2020/11/16 16:14:01 119][Px1c82][Tx40c1c700][DBG] MSPTHREAD  MSPThreadP 851  socket_main_0 DEAD
+============================================================
+Time  2020/11/16 18:41:06 605 
+============================================================
+[2020/11/16 18:41:06 605][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST socket_main_0:1:1:0
+[2020/11/16 18:41:06 605][Px25bd][Tx33499700][DBG] MSPTHREAD  MSPThreadP 826  socket_main_0 IDLE
+[2020/11/16 18:41:06 605][Px25bd][Tx33499700][DBG] MSPTHREAD  MSPThreadP 868  socket_main_0 RUN <socket_main_0>
+[2020/11/16 18:41:06 605][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_1:1:1:0
+[2020/11/16 18:41:06 605][Px25bd][Tx32497700][DBG] MSPTHREAD  MSPThreadP 826  l_engine_1 IDLE
+[2020/11/16 18:41:06 605][Px25bd][Tx32497700][DBG] MSPTHREAD  MSPThreadP 868  l_engine_1 RUN <l_engine_1>
+[2020/11/16 18:41:06 605][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_2:1:1:0
+[2020/11/16 18:41:06 605][Px25bd][Tx31c96700][DBG] MSPTHREAD  MSPThreadP 826  l_engine_2 IDLE
+[2020/11/16 18:41:06 605][Px25bd][Tx31c96700][DBG] MSPTHREAD  MSPThreadP 868  l_engine_2 RUN <l_engine_2>
+[2020/11/16 18:41:06 606][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_3:1:1:0
+[2020/11/16 18:41:06 606][Px25bd][Tx31495700][DBG] MSPTHREAD  MSPThreadP 826  l_engine_3 IDLE
+[2020/11/16 18:41:06 606][Px25bd][Tx31495700][DBG] MSPTHREAD  MSPThreadP 868  l_engine_3 RUN <l_engine_3>
+[2020/11/16 18:41:06 606][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_4:1:1:0
+[2020/11/16 18:41:06 606][Px25bd][Tx30c94700][DBG] MSPTHREAD  MSPThreadP 826  l_engine_4 IDLE
+[2020/11/16 18:41:06 606][Px25bd][Tx30c94700][DBG] MSPTHREAD  MSPThreadP 868  l_engine_4 RUN <l_engine_4>
+[2020/11/16 18:41:06 606][Px25bd][Tx1bfff700][DBG] MSPTHREAD  MSPThreadP 826  l_engine_5 IDLE
+[2020/11/16 18:41:06 606][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_5:1:1:0
+[2020/11/16 18:41:06 606][Px25bd][Tx1bfff700][DBG] MSPTHREAD  MSPThreadP 868  l_engine_5 RUN <l_engine_5>
+[2020/11/16 18:41:06 606][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:1:1:0
+[2020/11/16 18:41:06 606][Px25bd][Tx1b7fe700][DBG] MSPTHREAD  MSPThreadP 826  l_engine_6 IDLE
+[2020/11/16 18:41:06 606][Px25bd][Tx1b7fe700][DBG] MSPTHREAD  MSPThreadP 868  l_engine_6 RUN <l_engine_6>
+[2020/11/16 18:41:06 606][Px25bd][Tx351f6b80][TRC] MSPCMN     msp_cmn.c  1300 MSPLogin(0,0,281413da) [in]
+[2020/11/16 18:41:06 606][Px25bd][Tx351f6b80][TRC] LENGINE    leng_shell 109  lEngine_Start(34b600d2,f6fad650,1, 0) [in]
+[2020/11/16 18:41:06 606][Px25bd][Tx351f6b80][INF] LLOADER    lloader.c  327  load lgi
+[2020/11/16 18:41:06 606][Px25bd][Tx351f6b80][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 18:41:06 606][Px25bd][Tx351f6b80][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 18:41:06 606][Px25bd][Tx351f6b80][PRF] LLOADER    lloader.c  397  load lgi cost 0 (ms)
+[2020/11/16 18:41:06 606][Px25bd][Tx351f6b80][DBG] LENGINE    leng_shell 204  env=29ddd9a0,lgi,lgi_
+[2020/11/16 18:41:06 606][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:6:1:1
+[2020/11/16 18:41:06 606][Px25bd][Tx351f6b80][TRC] LENGINE    leng_shell 275  lEngine_Start() [out] 0
+[2020/11/16 18:41:06 606][Px25bd][Tx351f6b80][TRC] LENGINE    leng_shell 418  lEngine_SendMessage(29ddd9a0,1,4,,,) [in]
+[2020/11/16 18:41:06 606][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:11:1:0
+[2020/11/16 18:41:06 606][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_main. 565  ENGINE_MSG_LOAD
+[2020/11/16 18:41:06 606][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_main. 209  lEngine_LoadEnv(34ff0300,29ddd9a0) [in]
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  327  load ecode
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][PRF] LLOADER    lloader.c  397  load ecode cost 0 (ms)
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  327  load config
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][PRF] LLOADER    lloader.c  397  load config cost 0 (ms)
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][INF] LMOD       luac_logge 172  [config:43:use general cloud  ]
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  327  load update
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][PRF] LLOADER    lloader.c  397  load update cost 0 (ms)
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  327  load transport
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][PRF] LLOADER    lloader.c  397  load transport cost 0 (ms)
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  327  load ns
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 18:41:06 607][Px25bd][Tx1b7fe700][PRF] LLOADER    lloader.c  397  load ns cost 0 (ms)
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  327  load network
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][PRF] LLOADER    lloader.c  397  load network cost 0 (ms)
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_main. 263  precall return 0
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_main. 288  [lgi_], ACTIVE
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_rpc.c 416  luacRPCFuncProto_Invoke(c049050,29ddd9a0) [in]
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][TRC] LMOD       luac_logge 170  [lgi:684:SYS_MSG_LOAD  ]
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  327  load dkjson
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  339  a intalled entry
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  365  from rom
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][PRF] LLOADER    lloader.c  397  load dkjson cost 0 (ms)
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][INF] LLOADER    lloader.c  327  load debug
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][ERR] LLOADER    lloader.c  390  not found!
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_rpc.c 533  luacRPCFuncProto_Invoke() [out] ret = 0
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_main. 312  [lgi_], loaded
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_rpc.c 416  luacRPCFuncProto_Invoke(c049050,29ddd9a0) [in]
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][TRC] LMOD       luac_logge 170  [lgi:706:SYS_MSG_REGCB  msp_status_cb  func(c053770) ]
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_rpc.c 533  luacRPCFuncProto_Invoke() [out] ret = 0
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_main. 345  lEngine_LoadEnv() [out] successfully
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_main. 571  lgi_, eng = l_engine_6, env = 29ddd9a0, L = 29ddda40
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][INF] LENGINE    leng_main. 572  l_engine_6 occupancy: 1 (33%)
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_main. 539  ENGINE_MSG_RPC_SYNC
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_main. 547  [lgi_], stat = 1
+[2020/11/16 18:41:06 608][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_rpc.c 416  luacRPCFuncProto_Invoke(29ddf3f0,29ddd9a0) [in]
+[2020/11/16 18:41:06 609][Px25bd][Tx1b7fe700][TRC] LMOD       luac_logge 170  [lgi:298:LGI_MSG_INIT  ]
+[2020/11/16 18:41:06 609][Px25bd][Tx1b7fe700][INF] LMOD       luac_logge 172  [lgi:305:lgi  lgi_  268436457  1573451739  ]
+[2020/11/16 18:41:06 609][Px25bd][Tx1b7fe700][TRC] MSPCMN     msp_cmn.c  875  statusCbStub(,,param_num = 5)
+[2020/11/16 18:41:06 609][Px25bd][Tx1b7fe700][PRF] LENGINE    leng_main. 189  callc(msp_status_cb) cost 0 ms
+[2020/11/16 18:41:06 609][Px25bd][Tx1b7fe700][INF] LMOD       luac_logge 172  [lgi:347:work_dir  .  ]
+[2020/11/16 18:41:06 609][Px25bd][Tx1b7fe700][TRC] LMOD       luac_logge 170  [lgi:403:token:  nil  ]
+[2020/11/16 18:41:06 609][Px25bd][Tx1b7fe700][INF] LMOD       luac_logge 172  [lgi:476:msc cver : 5.0.44.1288  ]
+[2020/11/16 18:41:06 609][Px25bd][Tx1b7fe700][INF] LMOD       luac_logge 172  [lgi:519:ns_enable=  1  ]
+[2020/11/16 18:41:06 609][Px25bd][Tx1b7fe700][INF] LMOD       luac_logge 172  [lgi:531:prot_ver=1  ]
+[2020/11/16 18:41:06 609][Px25bd][Tx1b7fe700][INF] LMOD       luac_logge 172  [lgi:542:prot_type=tcp  ]
+[2020/11/16 18:41:06 609][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_rpc.c 533  luacRPCFuncProto_Invoke() [out] ret = 0
+[2020/11/16 18:41:06 609][Px25bd][Tx351f6b80][TRC] LENGINE    leng_shell 461  lEngine_SendMessage() [out] 0
+[2020/11/16 18:41:06 609][Px25bd][Tx351f6b80][TRC] LENGINE    leng_shell 310  lEngine_Stop(29ddd9a0) [in]
+[2020/11/16 18:41:06 609][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:7:1:1
+[2020/11/16 18:41:06 609][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_main. 586  ENGINE_MSG_UNLOAD
+[2020/11/16 18:41:06 609][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_rpc.c 416  luacRPCFuncProto_Invoke(c049050,29ddd9a0) [in]
+[2020/11/16 18:41:06 609][Px25bd][Tx1b7fe700][TRC] LMOD       luac_logge 170  [lgi:693:SYS_MSG_UNLOAD  go bg!  ]
+[2020/11/16 18:41:06 609][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_rpc.c 533  luacRPCFuncProto_Invoke() [out] ret = 0
+[2020/11/16 18:41:06 609][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_main. 623  [lgi_] active, go bg!
+[2020/11/16 18:41:06 609][Px25bd][Tx351f6b80][TRC] LENGINE    leng_shell 369  lEngine_Stop() [out] 0
+[2020/11/16 18:41:06 609][Px25bd][Tx351f6b80][TRC] MSPCMN     msp_cmn.c  1483 MSPLogin() [out] 0
+[2020/11/16 18:41:06 609][Px25bd][Tx351f6b80][TRC] QIVW       qivw.c     583  internal_QIVWInit(wIvw_InterfaceInit,ret = 8,g_pIvwEngine=0)
+[2020/11/16 18:41:09 670][Px25bd][Tx351f6b80][TRC] MSPCMN     msp_cmn.c  1554 MSPLogout() [in]
+[2020/11/16 18:41:09 670][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_1:5:1:1
+[2020/11/16 18:41:09 670][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_1:2:1:0
+[2020/11/16 18:41:09 670][Px25bd][Tx32497700][DBG] LENGINE    leng_main. 750  ENGINE_MSG_EXIT
+[2020/11/16 18:41:09 670][Px25bd][Tx32497700][DBG] MSPTHREAD  MSPThreadP 872  l_engine_1 END <l_engine_1>
+[2020/11/16 18:41:09 670][Px25bd][Tx32497700][DBG] MSPTHREAD  MSPThreadP 895  l_engine_1 IDLE
+[2020/11/16 18:41:09 670][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_2:5:1:1
+[2020/11/16 18:41:09 671][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_2:2:1:0
+[2020/11/16 18:41:09 671][Px25bd][Tx31c96700][DBG] LENGINE    leng_main. 750  ENGINE_MSG_EXIT
+[2020/11/16 18:41:09 671][Px25bd][Tx31c96700][DBG] MSPTHREAD  MSPThreadP 872  l_engine_2 END <l_engine_2>
+[2020/11/16 18:41:09 671][Px25bd][Tx31c96700][DBG] MSPTHREAD  MSPThreadP 895  l_engine_2 IDLE
+[2020/11/16 18:41:09 671][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_3:5:1:1
+[2020/11/16 18:41:09 671][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_3:2:1:0
+[2020/11/16 18:41:09 671][Px25bd][Tx31495700][DBG] LENGINE    leng_main. 750  ENGINE_MSG_EXIT
+[2020/11/16 18:41:09 671][Px25bd][Tx31495700][DBG] MSPTHREAD  MSPThreadP 872  l_engine_3 END <l_engine_3>
+[2020/11/16 18:41:09 671][Px25bd][Tx31495700][DBG] MSPTHREAD  MSPThreadP 895  l_engine_3 IDLE
+[2020/11/16 18:41:09 671][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_4:5:1:1
+[2020/11/16 18:41:09 671][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_4:2:1:0
+[2020/11/16 18:41:09 671][Px25bd][Tx30c94700][DBG] LENGINE    leng_main. 750  ENGINE_MSG_EXIT
+[2020/11/16 18:41:09 671][Px25bd][Tx30c94700][DBG] MSPTHREAD  MSPThreadP 872  l_engine_4 END <l_engine_4>
+[2020/11/16 18:41:09 671][Px25bd][Tx30c94700][DBG] MSPTHREAD  MSPThreadP 895  l_engine_4 IDLE
+[2020/11/16 18:41:09 671][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_5:5:1:1
+[2020/11/16 18:41:09 672][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_5:2:1:0
+[2020/11/16 18:41:09 672][Px25bd][Tx1bfff700][DBG] LENGINE    leng_main. 750  ENGINE_MSG_EXIT
+[2020/11/16 18:41:09 672][Px25bd][Tx1bfff700][DBG] MSPTHREAD  MSPThreadP 872  l_engine_5 END <l_engine_5>
+[2020/11/16 18:41:09 672][Px25bd][Tx1bfff700][DBG] MSPTHREAD  MSPThreadP 895  l_engine_5 IDLE
+[2020/11/16 18:41:09 672][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:5:1:1
+[2020/11/16 18:41:09 672][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:2:1:0
+[2020/11/16 18:41:09 672][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_main. 750  ENGINE_MSG_EXIT
+[2020/11/16 18:41:09 672][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_main. 781  [lgi_] bg, stat = 1
+[2020/11/16 18:41:09 672][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_rpc.c 416  luacRPCFuncProto_Invoke(c049050,29ddd9a0) [in]
+[2020/11/16 18:41:09 672][Px25bd][Tx1b7fe700][TRC] LMOD       luac_logge 170  [lgi:697:SYS_MSG_SHUTDOWN  ]
+[2020/11/16 18:41:09 672][Px25bd][Tx1b7fe700][DBG] LENGINE    leng_rpc.c 533  luacRPCFuncProto_Invoke() [out] ret = 0
+[2020/11/16 18:41:09 672][Px25bd][Tx1b7fe700][DBG] MSPTHREAD  MSPThreadP 872  l_engine_6 END <l_engine_6>
+[2020/11/16 18:41:09 673][Px25bd][Tx1b7fe700][DBG] MSPTHREAD  MSPThreadP 895  l_engine_6 IDLE
+[2020/11/16 18:41:09 673][Px25bd][Tx351f6b80][TRC] LUAC_CLEAN luac_clean 205  luacCleaner_Stop() [in]
+[2020/11/16 18:41:09 673][Px25bd][Tx351f6b80][TRC] LUAC_CLEAN luac_clean 248  luacCleaner_Stop() [out] 0
+[2020/11/16 18:41:09 673][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST socket_main_0:10:1:1
+[2020/11/16 18:41:09 673][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST socket_main_0:2:1:0
+[2020/11/16 18:41:09 673][Px25bd][Tx33499700][TRC] MSPSOCKET  MSPSocket. 1191 EXIT MSG
+[2020/11/16 18:41:09 673][Px25bd][Tx33499700][DBG] MSPTHREAD  MSPThreadP 872  socket_main_0 END <socket_main_0>
+[2020/11/16 18:41:09 673][Px25bd][Tx33499700][DBG] MSPTHREAD  MSPThreadP 895  socket_main_0 IDLE
+[2020/11/16 18:41:09 673][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_1:3:1:1
+[2020/11/16 18:41:09 673][Px25bd][Tx32497700][DBG] MSPTHREAD  MSPThreadP 851  l_engine_1 DEAD
+[2020/11/16 18:41:09 673][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_2:3:1:1
+[2020/11/16 18:41:09 673][Px25bd][Tx31c96700][DBG] MSPTHREAD  MSPThreadP 851  l_engine_2 DEAD
+[2020/11/16 18:41:09 674][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_3:3:1:1
+[2020/11/16 18:41:09 674][Px25bd][Tx31495700][DBG] MSPTHREAD  MSPThreadP 851  l_engine_3 DEAD
+[2020/11/16 18:41:09 674][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_4:3:1:1
+[2020/11/16 18:41:09 674][Px25bd][Tx30c94700][DBG] MSPTHREAD  MSPThreadP 851  l_engine_4 DEAD
+[2020/11/16 18:41:09 674][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_5:3:1:1
+[2020/11/16 18:41:09 674][Px25bd][Tx1bfff700][DBG] MSPTHREAD  MSPThreadP 851  l_engine_5 DEAD
+[2020/11/16 18:41:09 674][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST l_engine_6:3:1:1
+[2020/11/16 18:41:09 674][Px25bd][Tx1b7fe700][DBG] MSPTHREAD  MSPThreadP 851  l_engine_6 DEAD
+[2020/11/16 18:41:09 674][Px25bd][Tx351f6b80][DBG] MSPTHREAD  MSPThreadP 734  POST socket_main_0:3:1:1
+[2020/11/16 18:41:09 675][Px25bd][Tx33499700][DBG] MSPTHREAD  MSPThreadP 851  socket_main_0 DEAD
